@@ -4,3 +4,4 @@ This repo generalizes the projects of our club done in field of data science.
 ## 2. 
 ## 3.
 ## 4.
+### P.S. - For any ideas regarding any new project or previous projets please submit inside IDEAS folder.
