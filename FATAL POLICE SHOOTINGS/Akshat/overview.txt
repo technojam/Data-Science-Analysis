@@ -1,0 +1,6 @@
+#contribution is done by akshat mittal
+
+To run this code you will need insall python from https://www.python.org/ then install pip from here pip install pip, the install jupyternotebook to install that run this {pip install jupyterlab} command in your command prompt and you will need to install some packages for satisfying it's requirments.
+
+
+This data contain basic data cleaning and data visualizatio.  
